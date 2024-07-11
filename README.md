@@ -6,7 +6,7 @@ Peng Wu,
 [Xinxin Zhang](https://scholar.google.cz/citations?user=rPv44PoAAAAJ), 
 [Xiankai Lu](https://scholar.google.com.hk/citations?user=QS5V5b8AAAAJ)
 
-[[`paper`]()] [[`BibTeX`](#CitingOVFormer)]
+[[`paper`](https://arxiv.org/pdf/2407.07427)] [[`BibTeX`](#CitingOVFormer)]
 
 <div align="center">
   <img src="OVFormer.png" width="100%" height="100%"/>
