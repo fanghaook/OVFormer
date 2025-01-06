@@ -61,10 +61,12 @@ Run ```mAP.py```, you are expected to get results like this:
 ## <a name="CitingOVFormer"></a>Citing OVFormer
 ```BibTeX
 @inproceedings{fang2024unified,
-  title={Unified Embedding Alignment for Open-Vocabulary Video Instance Segmentation},
-  author={Hao, Fang and Peng, Wu and Yawei, Li and Xinxin, Zhang and Xiankai, Lu},
+  title={Unified embedding alignment for open-vocabulary video instance segmentation},
+  author={Fang, Hao and Wu, Peng and Li, Yawei and Zhang, Xinxin and Lu, Xiankai},
   booktitle={ECCV},
-  year={2024},
+  pages={225--241},
+  year={2025},
+  organization={Springer}
 }
 ```
 
